@@ -1,0 +1,25 @@
+Index: test.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Title</title>\r\n</head>\r\n<body>\r\n<p>O gonçalo não percebe nada disto</p>\r\n\r\n<h1>O gonçalo não percebe nada disto</h1>\r\n<h1>O gonçalo não percebe nada disto</h1>\r\n\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test.html	(revision c1624ea5ca42df8cc164364889a5d7321e7c2d85)
++++ test.html	(date 1573128062740)
+@@ -2,13 +2,8 @@
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+-    <title>Title</title>
++    <title>Teste</title>
+ </head>
+ <body>
+-<p>O gonçalo não percebe nada disto</p>
+-
+-<h1>O gonçalo não percebe nada disto</h1>
+-<h1>O gonçalo não percebe nada disto</h1>
+-
+ </body>
+ </html>
+\ No newline at end of file
